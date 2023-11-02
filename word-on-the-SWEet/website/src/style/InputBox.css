@@ -1,0 +1,14 @@
+.input-box {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    margin: auto;
+    font-size: auto;
+    font-family: "Verdana", sans-serif;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }

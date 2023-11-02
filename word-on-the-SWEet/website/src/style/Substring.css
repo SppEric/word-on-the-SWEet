@@ -1,0 +1,11 @@
+.substring {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    background: red;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: auto;
+    font-family: "Verdana", sans-serif;
+}

@@ -1,0 +1,19 @@
+.game-board {
+    display: block;   
+    block-size: 80%; 
+    margin: auto;
+}
+
+.player-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #726e6e;
+    text-align: center;
+}
+
+.player {
+    float: left;
+    padding:5px;
+}
